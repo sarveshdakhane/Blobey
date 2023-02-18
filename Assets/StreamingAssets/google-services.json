@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371819222997",
+    "firebase_url": "https://blobey-ee93d-default-rtdb.firebaseio.com",
+    "project_id": "blobey-ee93d",
+    "storage_bucket": "blobey-ee93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371819222997:android:2d91d4e90dbc8bdedacf5c",
+        "android_client_info": {
+          "package_name": "com.Sarvesh.Blobey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371819222997-jhoc7pi71a7sca22t628iebdnp8iga75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsDUP5AZQzqjynVpKZ0NUAz0Cdbva81c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371819222997-jhoc7pi71a7sca22t628iebdnp8iga75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
